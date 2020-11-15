@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "PBSd2jvHzFUdziIOxBYLCDCSQAcEHeC/NX1hSif9eCqM5QIC7LR4C+Co2gdEfTI2k4MsaAXgCa2w3Li1f+FGjA==",
+  "success": true,
+  "projectFilePath": "D:\\ProjetoPagouFacil_Marvel\\ProjetoPagouFacil\\ProjetoPagouFacil.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Diego Elias\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,45 @@
+C:\Users\Diego Elias\source\repos\ProjetoPagouFacil\ProjetoPagouFacil\bin\Debug\netcoreapp3.1\ProjetoPagouFacil.exe
+C:\Users\Diego Elias\source\repos\ProjetoPagouFacil\ProjetoPagouFacil\bin\Debug\netcoreapp3.1\ProjetoPagouFacil.deps.json
+C:\Users\Diego Elias\source\repos\ProjetoPagouFacil\ProjetoPagouFacil\bin\Debug\netcoreapp3.1\ProjetoPagouFacil.runtimeconfig.json
+C:\Users\Diego Elias\source\repos\ProjetoPagouFacil\ProjetoPagouFacil\bin\Debug\netcoreapp3.1\ProjetoPagouFacil.runtimeconfig.dev.json
+C:\Users\Diego Elias\source\repos\ProjetoPagouFacil\ProjetoPagouFacil\bin\Debug\netcoreapp3.1\ProjetoPagouFacil.dll
+C:\Users\Diego Elias\source\repos\ProjetoPagouFacil\ProjetoPagouFacil\bin\Debug\netcoreapp3.1\ProjetoPagouFacil.pdb
+C:\Users\Diego Elias\source\repos\ProjetoPagouFacil\ProjetoPagouFacil\obj\Debug\netcoreapp3.1\ProjetoPagouFacil.csprojAssemblyReference.cache
+C:\Users\Diego Elias\source\repos\ProjetoPagouFacil\ProjetoPagouFacil\obj\Debug\netcoreapp3.1\ProjetoPagouFacil.AssemblyInfoInputs.cache
+C:\Users\Diego Elias\source\repos\ProjetoPagouFacil\ProjetoPagouFacil\obj\Debug\netcoreapp3.1\ProjetoPagouFacil.AssemblyInfo.cs
+C:\Users\Diego Elias\source\repos\ProjetoPagouFacil\ProjetoPagouFacil\obj\Debug\netcoreapp3.1\ProjetoPagouFacil.dll
+C:\Users\Diego Elias\source\repos\ProjetoPagouFacil\ProjetoPagouFacil\obj\Debug\netcoreapp3.1\ProjetoPagouFacil.pdb
+C:\Users\Diego Elias\source\repos\ProjetoPagouFacil\ProjetoPagouFacil\obj\Debug\netcoreapp3.1\ProjetoPagouFacil.genruntimeconfig.cache
+C:\Users\Diego Elias\source\repos\ProjetoPagouFacil\ProjetoPagouFacil\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Diego Elias\source\repos\ProjetoPagouFacil\ProjetoPagouFacil\obj\Debug\netcoreapp3.1\ProjetoPagouFacil.csproj.CoreCompileInputs.cache
+C:\Users\Diego Elias\source\repos\ProjetoPagouFacil\ProjetoPagouFacil\obj\Debug\netcoreapp3.1\ProjetoPagouFacil.csproj.CopyComplete
+C:\Users\Diego Elias\Desktop\ProjetoPagouFacil_2\ProjetoPagouFacil\obj\Debug\netcoreapp3.1\ProjetoPagouFacil.csprojAssemblyReference.cache
+C:\Users\Diego Elias\Desktop\ProjetoPagouFacil_2\ProjetoPagouFacil\obj\Debug\netcoreapp3.1\ProjetoPagouFacil.AssemblyInfoInputs.cache
+C:\Users\Diego Elias\Desktop\ProjetoPagouFacil_2\ProjetoPagouFacil\obj\Debug\netcoreapp3.1\ProjetoPagouFacil.AssemblyInfo.cs
+C:\Users\Diego Elias\Desktop\ProjetoPagouFacil_2\ProjetoPagouFacil\obj\Debug\netcoreapp3.1\ProjetoPagouFacil.csproj.CoreCompileInputs.cache
+C:\Users\Diego Elias\Desktop\ProjetoPagouFacil_2\ProjetoPagouFacil\obj\Debug\netcoreapp3.1\ProjetoPagouFacil.dll
+C:\Users\Diego Elias\Desktop\ProjetoPagouFacil_2\ProjetoPagouFacil\obj\Debug\netcoreapp3.1\ProjetoPagouFacil.pdb
+C:\Users\Diego Elias\Desktop\ProjetoPagouFacil_2\ProjetoPagouFacil\bin\Debug\netcoreapp3.1\ProjetoPagouFacil.exe
+C:\Users\Diego Elias\Desktop\ProjetoPagouFacil_2\ProjetoPagouFacil\bin\Debug\netcoreapp3.1\ProjetoPagouFacil.deps.json
+C:\Users\Diego Elias\Desktop\ProjetoPagouFacil_2\ProjetoPagouFacil\bin\Debug\netcoreapp3.1\ProjetoPagouFacil.runtimeconfig.json
+C:\Users\Diego Elias\Desktop\ProjetoPagouFacil_2\ProjetoPagouFacil\bin\Debug\netcoreapp3.1\ProjetoPagouFacil.runtimeconfig.dev.json
+C:\Users\Diego Elias\Desktop\ProjetoPagouFacil_2\ProjetoPagouFacil\bin\Debug\netcoreapp3.1\ProjetoPagouFacil.dll
+C:\Users\Diego Elias\Desktop\ProjetoPagouFacil_2\ProjetoPagouFacil\bin\Debug\netcoreapp3.1\ProjetoPagouFacil.pdb
+C:\Users\Diego Elias\Desktop\ProjetoPagouFacil_2\ProjetoPagouFacil\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Diego Elias\Desktop\ProjetoPagouFacil_2\ProjetoPagouFacil\obj\Debug\netcoreapp3.1\ProjetoPagouFacil.csproj.CopyComplete
+C:\Users\Diego Elias\Desktop\ProjetoPagouFacil_2\ProjetoPagouFacil\obj\Debug\netcoreapp3.1\ProjetoPagouFacil.genruntimeconfig.cache
+D:\ProjetoPagouFacil_Marvel\ProjetoPagouFacil\bin\Debug\netcoreapp3.1\ProjetoPagouFacil.exe
+D:\ProjetoPagouFacil_Marvel\ProjetoPagouFacil\bin\Debug\netcoreapp3.1\ProjetoPagouFacil.deps.json
+D:\ProjetoPagouFacil_Marvel\ProjetoPagouFacil\bin\Debug\netcoreapp3.1\ProjetoPagouFacil.runtimeconfig.json
+D:\ProjetoPagouFacil_Marvel\ProjetoPagouFacil\bin\Debug\netcoreapp3.1\ProjetoPagouFacil.runtimeconfig.dev.json
+D:\ProjetoPagouFacil_Marvel\ProjetoPagouFacil\bin\Debug\netcoreapp3.1\ProjetoPagouFacil.dll
+D:\ProjetoPagouFacil_Marvel\ProjetoPagouFacil\bin\Debug\netcoreapp3.1\ProjetoPagouFacil.pdb
+D:\ProjetoPagouFacil_Marvel\ProjetoPagouFacil\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\ProjetoPagouFacil_Marvel\ProjetoPagouFacil\obj\Debug\netcoreapp3.1\ProjetoPagouFacil.csprojAssemblyReference.cache
+D:\ProjetoPagouFacil_Marvel\ProjetoPagouFacil\obj\Debug\netcoreapp3.1\ProjetoPagouFacil.AssemblyInfoInputs.cache
+D:\ProjetoPagouFacil_Marvel\ProjetoPagouFacil\obj\Debug\netcoreapp3.1\ProjetoPagouFacil.AssemblyInfo.cs
+D:\ProjetoPagouFacil_Marvel\ProjetoPagouFacil\obj\Debug\netcoreapp3.1\ProjetoPagouFacil.csproj.CoreCompileInputs.cache
+D:\ProjetoPagouFacil_Marvel\ProjetoPagouFacil\obj\Debug\netcoreapp3.1\ProjetoPagouFacil.csproj.CopyComplete
+D:\ProjetoPagouFacil_Marvel\ProjetoPagouFacil\obj\Debug\netcoreapp3.1\ProjetoPagouFacil.dll
+D:\ProjetoPagouFacil_Marvel\ProjetoPagouFacil\obj\Debug\netcoreapp3.1\ProjetoPagouFacil.pdb
+D:\ProjetoPagouFacil_Marvel\ProjetoPagouFacil\obj\Debug\netcoreapp3.1\ProjetoPagouFacil.genruntimeconfig.cache
