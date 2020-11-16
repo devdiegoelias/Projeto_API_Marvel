@@ -9,7 +9,7 @@ namespace ProjetoPagouFacil
     {
         public static void geraArquivo(List<Personagens> PersonagensMarvel)
         {
-            string caminho = @"c:\Atividade_Avaliativa.txt";
+            string caminho = @"c:\Projeto_API_Marvel\personagensmarvel.txt";
 
             var text = PersonagensMarvel.ToString();
 
